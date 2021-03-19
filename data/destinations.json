@@ -1,0 +1,64 @@
+{
+ "destinations": [  {   "id" : 1,
+        "country": "America",
+        "city": "San Francisco",
+        "date": 1958,
+        "image": "https://images.unsplash.com/photo-1522735555435-a8fe18da2089?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
+        "author": {
+            "name": "Miho Duranona",
+            "author_img": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80"
+        },
+        "coordinates": {
+            "lat": 37.774929,
+            "lng": -122.419418
+        }
+
+    },
+    {   "id" : 2,
+        "country": "Canada",
+        "city": "Vancouver",
+        "date": 2019,
+        "image": "https://images.unsplash.com/photo-1519181258491-889c2b001485?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
+        "author": {
+            "name": "Matt Mingay",
+            "author_img": "https://images.unsplash.com/photo-1528797471109-9a6649153bc3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1141&q=80"
+        },
+        "coordinates": {
+            "lat": 49.282730,
+            "lng": -123.120735
+        }
+    },
+    {   "id" : 3,
+        "country": "Norway",
+        "city": "Bergen",
+        "date": 2010,
+        "image": "https://images.unsplash.com/photo-1580990695461-471b8e43e767?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1651&q=80",
+        "author": {
+            "name": "Stefan Kurz",
+            "author_img": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80"
+        },
+        "coordinates": {
+            "lat": 60.391262,
+            "lng": 5.322054
+        }
+    },
+        
+
+    {   "id" : 4,
+        "country": "Russia",
+        "city": "Saint Petersburg",
+        "date": 2012,
+        "image": "https://images.unsplash.com/photo-1576422498609-459417ced4b8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
+        "author": {
+            "name": "Miho Duranona",
+            "author_img": "https://images.unsplash.com/photo-1528797471109-9a6649153bc3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1141&q=80"
+        },
+        "coordinates": {
+            "lat": 59.934280,
+            "lng": 30.335098
+        }
+    }
+        
+    
+]
+}
